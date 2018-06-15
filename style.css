@@ -1,0 +1,23 @@
+legend {
+    font-weight: bold;
+    font-size: 20px;
+}
+            
+form {
+    background-color: lemonchiffon;
+}
+            
+input[type="date"]::-webkit-calendar-picker-indicator {
+    display: none;
+    -webkit-appearance: none;
+}
+
+td, th {
+    border: 1px solid;
+    padding: .5em;
+    text-align: center;
+}
+
+tbody tr {
+    background-color: lemonchiffon;
+}

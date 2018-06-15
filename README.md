@@ -1,1 +1,1 @@
-# article-database
+To run this database on your computer, enter the login information for your MySql account in the dbConnection.php file.
